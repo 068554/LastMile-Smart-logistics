@@ -1,0 +1,14 @@
+#Password=<< Existing password/certificate removed on Export >>
+#
+#Sat Sep 03 14:01:14 UTC 2016
+Description=sudip hcp odata
+Type=HTTP
+Authentication=BasicAuthentication
+WebIDEUsage=odata_gen
+Name=gwhcp
+WebIDEEnabled=true
+CloudConnectorVersion=2
+ProxyType=Internet
+URL=https\://gwaas-p1941877974trial.hanatrial.ondemand.com
+User=p1941877974
+WebIDESystem=gwhcp

@@ -1,0 +1,12 @@
+#
+#Sat Sep 03 13:59:38 UTC 2016
+Description=UBER
+Type=HTTP
+TrustAll=true
+Authentication=NoAuthentication
+WebIDEUsage=true
+Name=UBERSANDBOX
+WebIDEEnabled=true
+CloudConnectorVersion=2
+URL=https\://sandbox-api.uber.com
+ProxyType=Internet

@@ -1,0 +1,12 @@
+#
+#Sat Sep 03 13:59:54 UTC 2016
+Description=UBER
+Type=HTTP
+TrustAll=true
+Authentication=NoAuthentication
+WebIDEUsage=true
+Name=UBER
+WebIDEEnabled=true
+CloudConnectorVersion=2
+URL=https\://api.uber.com
+ProxyType=Internet

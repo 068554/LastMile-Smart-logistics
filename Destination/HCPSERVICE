@@ -1,0 +1,13 @@
+#
+#Sat Sep 03 14:00:24 UTC 2016
+Description=HCP API MANAGEMENT SERVICES
+Type=HTTP
+TrustAll=true
+Authentication=NoAuthentication
+WebIDEUsage=true
+Name=HCPSERVICE
+WebIDEEnabled=true
+CloudConnectorVersion=2
+URL=https\://trial.apim1.hanatrial.ondemand.com
+ProxyType=Internet
+WebIDESystem=HCPSERVICE

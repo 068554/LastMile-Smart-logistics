@@ -1,0 +1,14 @@
+#Password=<< Existing password/certificate removed on Export >>
+#
+#Sat Sep 03 14:00:27 UTC 2016
+Description=MDC TENANT
+Type=HTTP
+Authentication=BasicAuthentication
+WebIDEUsage=odata_xs,odata_gen
+Name=MDCHANATRIAL
+WebIDEEnabled=true
+CloudConnectorVersion=2
+ProxyType=Internet
+URL=https\://devmdcp1941877974trial.hanatrial.ondemand.com
+User=SYSTEM
+WebIDESystem=MDCHANATRIAL
